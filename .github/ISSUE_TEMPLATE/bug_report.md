@@ -41,7 +41,6 @@ assignees: ''
 ##### System Information
 <!--- Include as many relevant details about the system you experienced    --->
 <!--- the bug in                                                           --->
-* QTerminal version:
-* Distribution & Version:
-* Kernel:
-* Qt Version:
+* QTerminal version `qterminal -v`:
+* Distribution & Version `cat /etc/issue`: 
+* Qt Version `qmake -query QT_VERSION`: 
