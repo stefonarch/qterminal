@@ -36,9 +36,14 @@
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../mainwindow.cpp" line="92"/>
+        <location filename="../mainwindow.cpp" line="89"/>
         <source>Bookmarks</source>
         <translation>Záložky</translation>
+    </message>
+    <message>
+        <location filename="../mainwindow.cpp" line="173"/>
+        <source>Keep window open when it loses focus</source>
+        <translation>Když ztratí zaměření, ponechat okno otevřené</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="192"/>
@@ -163,7 +168,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="325"/>
         <source>Handle history...</source>
-        <translation>Zpracovat historii...</translation>
+        <translation>Zpracovat historii…</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="333"/>
@@ -173,7 +178,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="339"/>
         <source>&amp;Load Session</source>
-        <translation>&amp;Načíst relaci</translation>
+        <translation>Načíst re&amp;laci</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="346"/>
@@ -485,7 +490,7 @@
         <location filename="../forms/propertiesdialog.ui" line="411"/>
         <location filename="../forms/propertiesdialog.ui" line="444"/>
         <source>px</source>
-        <translation>_obraz. bodů</translation>
+        <translation>obraz. bodů</translation>
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="361"/>
@@ -620,7 +625,7 @@
     <message>
         <location filename="../forms/propertiesdialog.ui" line="595"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Which behavior to emulate. Note that this does not have to match your operating system.&lt;/p&gt;&lt;p&gt;If you are not sure, use the &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; emulation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Které chování napodobit. Všimněte si, že toto nemusí odpovídat vašemu operačnímu systému.&lt;/p&gt;&lt;p&gt;Pokud si nejste jisti, použijte &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; emulaci.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Které chování napodobit. Všimněte si, že toto nemusí odpovídat vámi využívanému operačnímu systému.&lt;/p&gt;&lt;p&gt;Pokud si nejste jistí, použijte &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; emulaci.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="617"/>
@@ -646,7 +651,7 @@
     <message>
         <location filename="../forms/propertiesdialog.ui" line="731"/>
         <source>Open new tab to the right of the active tab</source>
-        <translation>Otevřít novou kartu napravo od činné karty</translation>
+        <translation>Otevřít novou kartu napravo od té stávající</translation>
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="734"/>
@@ -656,7 +661,7 @@
     <message>
         <location filename="../forms/propertiesdialog.ui" line="762"/>
         <source>Close tab on middle-click</source>
-        <translation>Zavřít kartu klepnutím prostředního tlačítka myši</translation>
+        <translation>Zavřít kartu kliknutím prostředním tlačítkem myši</translation>
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="823"/>
@@ -676,41 +681,51 @@
 3. Click on a Shortcut or press Enter
 
 To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</source>
-        <translation>Pro upravení zkratky:
-1. Poklepejte na její klávesu
+        <translation>Pokud chcete zkratku upravit:
+1. Dvojklik na její klávesu
 2. Stiskněte požadovanou kombinaci a uvolněte ji
-3. Klepněte na zástupce nebo stiskněte klávesu Enter
+3. Klikněte na zástupce nebo stiskněte klávesu Enter
 
-pro odebrání/zakázání zkratky, v bodě 2 stiskněte pouze modifikátor (například Shift)</translation>
+Pokud chcete zkratku odebrat/vypnout zkratky, v bodě 2 stiskněte pouze modifikátor (například Shift)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="909"/>
+        <location filename="../forms/propertiesdialog.ui" line="898"/>
+        <source>A lock button is shown on horizontal tab bar</source>
+        <translation>Tlačítko pro uzamčení je zobrazeno na vodorovné pruhu panelů</translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="901"/>
+        <source>Keep window open when it loses focus</source>
+        <translation>Když ztratí zaměření, ponechat okno otevřené</translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="919"/>
         <source>Height</source>
         <translation>Výška</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="919"/>
-        <location filename="../forms/propertiesdialog.ui" line="936"/>
+        <location filename="../forms/propertiesdialog.ui" line="929"/>
+        <location filename="../forms/propertiesdialog.ui" line="946"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="926"/>
+        <location filename="../forms/propertiesdialog.ui" line="936"/>
         <source>Width</source>
         <translation>Šířka</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="982"/>
+        <location filename="../forms/propertiesdialog.ui" line="992"/>
         <source>Edit bookmark file contents</source>
         <translation>Upravit obsah souboru se záložkami</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1004"/>
+        <location filename="../forms/propertiesdialog.ui" line="1014"/>
         <source>Enable bookmarks</source>
         <translation>Používat záložky</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1013"/>
+        <location filename="../forms/propertiesdialog.ui" line="1023"/>
         <source>Bookmark file</source>
         <translation>Soubor se záložkami</translation>
     </message>
@@ -730,22 +745,22 @@ pro odebrání/zakázání zkratky, v bodě 2 stiskněte pouze modifikátor (nap
         <translation>Pevná velikost panelu:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="898"/>
+        <location filename="../forms/propertiesdialog.ui" line="908"/>
         <source>Size</source>
         <translation>Velikost</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="950"/>
+        <location filename="../forms/propertiesdialog.ui" line="960"/>
         <source>Shortcut:</source>
         <translation>Klávesová zkratka:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1026"/>
+        <location filename="../forms/propertiesdialog.ui" line="1036"/>
         <source>Find...</source>
         <translation>Najít…</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1035"/>
+        <location filename="../forms/propertiesdialog.ui" line="1045"/>
         <source>You can specify your own bookmarks file location. It allows easy bookmark sharing with tools like OwnCloud or Dropbox.</source>
         <translation>Můžete stanovit své vlastní umístění souboru se záložkami. To umožňuje snadné sdílení záložek pomocí nástrojů, jako jsou NextCloud nebo Dropbox.</translation>
     </message>
@@ -763,7 +778,7 @@ pro odebrání/zakázání zkratky, v bodě 2 stiskněte pouze modifikátor (nap
     <message>
         <location filename="../forms/propertiesdialog.ui" line="879"/>
         <source>Key</source>
-        <translation>Klávesy</translation>
+        <translation>Klávesa</translation>
     </message>
     <message>
         <location filename="../propertiesdialog.cpp" line="155"/>
@@ -823,23 +838,23 @@ pro odebrání/zakázání zkratky, v bodě 2 stiskněte pouze modifikátor (nap
         <translation>Posun dolů</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="390"/>
+        <location filename="../propertiesdialog.cpp" line="392"/>
         <source>Images (*.bmp *.jpg *.png *.svg *.xpm)</source>
         <translation>Obrázky (*.bmp *.jpg *.png *.svg *.xpm)</translation>
     </message>
     <message>
         <location filename="../propertiesdialog.cpp" line="199"/>
-        <location filename="../propertiesdialog.cpp" line="294"/>
+        <location filename="../propertiesdialog.cpp" line="295"/>
         <source>System Default</source>
         <translation>Dle výchozího nastavení systému</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="389"/>
+        <location filename="../propertiesdialog.cpp" line="391"/>
         <source>Choose a background image</source>
         <translation>Zvolte obrázek pro pozadí</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="466"/>
+        <location filename="../propertiesdialog.cpp" line="468"/>
         <source>Open or create bookmarks file</source>
         <translation>Otevřít nebo vytvořit soubor se záložkami</translation>
     </message>
@@ -860,33 +875,33 @@ pro odebrání/zakázání zkratky, v bodě 2 stiskněte pouze modifikátor (nap
 <context>
     <name>TabWidget</name>
     <message>
-        <location filename="../tabwidget.cpp" line="78"/>
-        <location filename="../tabwidget.cpp" line="232"/>
+        <location filename="../tabwidget.cpp" line="80"/>
+        <location filename="../tabwidget.cpp" line="234"/>
         <source>Shell No. %1</source>
         <translation>Shell číslo %1</translation>
     </message>
     <message>
-        <location filename="../tabwidget.cpp" line="200"/>
+        <location filename="../tabwidget.cpp" line="202"/>
         <source>Tab name</source>
         <translation>Název panelu</translation>
     </message>
     <message>
-        <location filename="../tabwidget.cpp" line="201"/>
+        <location filename="../tabwidget.cpp" line="203"/>
         <source>New tab name:</source>
         <translation>Nový název panelu:</translation>
     </message>
     <message>
-        <location filename="../tabwidget.cpp" line="221"/>
+        <location filename="../tabwidget.cpp" line="223"/>
         <source>Select new tab title color</source>
         <translation>Vyberte novou barvu pro titulek panelu</translation>
     </message>
     <message>
-        <location filename="../tabwidget.cpp" line="242"/>
+        <location filename="../tabwidget.cpp" line="244"/>
         <source>Close session</source>
         <translation>Zavřít relaci</translation>
     </message>
     <message>
-        <location filename="../tabwidget.cpp" line="244"/>
+        <location filename="../tabwidget.cpp" line="246"/>
         <source>Change title color</source>
         <translation>Změnit barvu titulku</translation>
     </message>
@@ -929,7 +944,7 @@ pro odebrání/zakázání zkratky, v bodě 2 stiskněte pouze modifikátor (nap
     <message>
         <location filename="../forms/qterminal.ui" line="79"/>
         <source>&amp;View</source>
-        <translation>&amp;Zobrazení</translation>
+        <translation>&amp;Zobrazit</translation>
     </message>
     <message>
         <location filename="../forms/qterminal.ui" line="84"/>

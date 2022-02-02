@@ -23,6 +23,7 @@
 #include <QStandardPaths>
 #include <QTimer>
 #include <functional>
+#include <QGuiApplication>
 
 #ifdef HAVE_QDBUS
 #include <QtDBus/QtDBus>
@@ -115,7 +116,9 @@ MainWindow::MainWindow(TerminalConfig &cfg,
         else if (Properties::Instance()->fixedWindowSize.isValid()) {
             resize(Properties::Instance()->fixedWindowSize);
         }
-        if (Properties::Instance()->savePosOnExit && !Properties::Instance()->mainWindowPosition.isNull()) {
+        if (Properties::Instance()->savePosOnExit && !Properties::Instance()->mainWindowPosition.isNull()
+            && QGuiApplication::platformName() != QStringLiteral("wayland")
+            ) {
             move(Properties::Instance()->mainWindowPosition);
         }
         restoreState(Properties::Instance()->mainWindowState);
@@ -167,6 +170,7 @@ void MainWindow::enableDropMode()
     setWindowFlags(Qt::Dialog | Qt::WindowStaysOnTopHint | Qt::CustomizeWindowHint);
 
     m_dropLockButton = new QToolButton(this);
+    m_dropLockButton->setToolTip(tr("Keep window open when it loses focus"));
     consoleTabulator->setCornerWidget(m_dropLockButton, Qt::BottomRightCorner);
     m_dropLockButton->setCheckable(true);
     m_dropLockButton->connect(m_dropLockButton, &QToolButton::clicked, this, &MainWindow::setKeepOpen);
@@ -656,7 +660,16 @@ void MainWindow::closeEvent(QCloseEvent *ev)
 
 void MainWindow::actAbout_triggered()
 {
-    QMessageBox::about(this, QStringLiteral("QTerminal ") + QLatin1String(QTERMINAL_VERSION), tr("A lightweight multiplatform terminal emulator"));
+     QMessageBox::about(this, tr("About"),
+                     QStringLiteral("<center><b><big>QTerminal %1</big></b></center><br>").arg(qApp->applicationVersion())
+                     + tr("A lightweight and powerful multiplatform terminal emulator")
+                     + QStringLiteral("<br><br>")
+                     + tr("Copyright (C) ") + tr("2013-2022")
+                     + QStringLiteral("<br><a href='https://lxqt-project.org'>")
+                     + tr("LXQt Project")
+                     + QStringLiteral("</a><br><br>")
+                     + tr("Development: ")
+                     + QStringLiteral("<a href='https://github.com/lxqt/qterminal'>https://github.com/lxqt/qterminal</a><br><br>"));
 }
 
 void MainWindow::actProperties_triggered()
@@ -709,6 +722,8 @@ void MainWindow::propertiesChanged()
     }
 
     onCurrentTitleChanged(consoleTabulator->currentIndex());
+
+    setKeepOpen(Properties::Instance()->dropKeepOpen);
 
     realign();
 }

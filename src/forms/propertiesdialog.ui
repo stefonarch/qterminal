@@ -893,6 +893,16 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</str
         </widget>
        </item>
        <item>
+        <widget class="QCheckBox" name="dropKeepOpenCheckBox">
+         <property name="toolTip">
+          <string>A lock button is shown on horizontal tab bar</string>
+         </property>
+         <property name="text">
+          <string>Keep window open when it loses focus</string>
+         </property>
+        </widget>
+       </item>
+       <item>
         <widget class="QGroupBox" name="groupBox_3">
          <property name="title">
           <string>Size</string>
@@ -1147,6 +1157,22 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</str
     <hint type="destinationlabel">
      <x>618</x>
      <y>275</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>historyUnlimited</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>historyLimitedTo</receiver>
+   <slot>setDisabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>342</x>
+     <y>102</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>640</x>
+     <y>77</y>
     </hint>
    </hints>
   </connection>
