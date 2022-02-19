@@ -8,6 +8,17 @@ It is maintained by the LXQt project but can be used independently from this des
 
 This project is licensed under the terms of the [GPLv2](https://www.gnu.org/licenses/gpl-2.0.en.html) or any later version. See the LICENSE file for the full text of the license.
 
+## Features
+
+* Multiple tabs
+* Split terminal vertically and horizontally
+* Dropdown mode
+* Text search
+* Configurable user interface
+* Integration of system clipboard
+* Shortcut editor
+* Bookmarks for commands
+
 ## Installation
 
 ### Compiling sources
@@ -21,7 +32,7 @@ To build run `make`, to install `make install` which accepts variable `DESTDIR` 
 
 ### Binary packages
 
-Official binary packages are provided by all major Linux and BSD distributions. 
+Official binary packages are provided by all major Linux and BSD distributions.
 Just use your package manager to search for string `qterminal`.
 
 
