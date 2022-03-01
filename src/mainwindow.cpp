@@ -68,7 +68,6 @@ MainWindow::MainWindow(TerminalConfig &cfg,
 #ifdef HAVE_QDBUS
     registerAdapter<WindowAdaptor, MainWindow>(this);
 #endif
-    m_removeFinished = false;
     QTerminalApp::Instance()->addWindow(this);
     // We want terminal translucency...
     setAttribute(Qt::WA_TranslucentBackground);
@@ -125,7 +124,7 @@ MainWindow::MainWindow(TerminalConfig &cfg,
     }
 
     consoleTabulator->setAutoFillBackground(true);
-    connect(consoleTabulator, &TabWidget::closeTabNotification, this, &MainWindow::testClose);
+    connect(consoleTabulator, &TabWidget::closeLastTabNotification, this, &MainWindow::close);
     consoleTabulator->setTabPosition((QTabWidget::TabPosition)Properties::Instance()->tabsPos);
     //consoleTabulator->setShellProgram(command);
 
@@ -580,22 +579,22 @@ void MainWindow::showFullscreen(bool fullscreen)
         setWindowState(windowState() & ~Qt::WindowFullScreen);
 }
 
-void MainWindow::testClose(bool removeFinished)
-{
-
-    m_removeFinished = removeFinished;
-    close();
-}
 void MainWindow::toggleBookmarks()
 {
     m_bookmarksDock->toggleViewAction()->trigger();
+    if (m_bookmarksDock->isVisible())
+    {
+        m_bookmarksDock->widget()->setFocus();
+    }
 }
 
 
 void MainWindow::closeEvent(QCloseEvent *ev)
 {
     if (!Properties::Instance()->askOnExit
-        || !consoleTabulator->count())
+        || consoleTabulator->count() == 0
+        // the session is ended explicitly (e.g., by ctrl-d); prompt doesn't make sense
+        || consoleTabulator->terminalHolder()->findChildren<TermWidget*>().count() == 0)
     {
         // #80 - do not save state and geometry in drop mode
         if (!m_dropMode) {
@@ -646,12 +645,6 @@ void MainWindow::closeEvent(QCloseEvent *ev)
         }
         ev->accept();
     } else {
-        if(m_removeFinished) {
-            QWidget *w = consoleTabulator->widget(consoleTabulator->count()-1);
-            consoleTabulator->removeTab(consoleTabulator->count()-1);
-            delete w; // delete the widget because the window isn't closed
-            m_removeFinished = false;
-        }
         ev->ignore();
     }
 
@@ -674,9 +667,9 @@ void MainWindow::actAbout_triggered()
 
 void MainWindow::actProperties_triggered()
 {
-    PropertiesDialog *p = new PropertiesDialog(this);
-    connect(p, &PropertiesDialog::propertiesChanged, this, &MainWindow::propertiesChanged);
-    p->exec();
+    PropertiesDialog p(this);
+    connect(&p, &PropertiesDialog::propertiesChanged, this, &MainWindow::propertiesChanged);
+    p.exec();
 }
 
 void MainWindow::propertiesChanged()
@@ -758,6 +751,16 @@ void MainWindow::updateActionGroup(QAction *a)
 
 void MainWindow::showHide()
 {
+    // don't toggle the drop-down terminal when it has a modal dialog
+    const auto dialogs = findChildren<QDialog*>();
+    for (const auto& dialog : dialogs)
+    {
+        if(dialog->isModal())
+        {
+            return;
+        }
+    }
+
     if (isVisible())
         hide();
     else
