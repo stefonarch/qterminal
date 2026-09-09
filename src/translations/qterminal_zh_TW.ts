@@ -387,7 +387,7 @@
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="38"/>
-        <location filename="../forms/propertiesdialog.ui" line="710"/>
+        <location filename="../forms/propertiesdialog.ui" line="735"/>
         <source>Behavior</source>
         <translation>行為</translation>
     </message>
@@ -407,7 +407,7 @@
         <translation>書籤</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="545"/>
+        <location filename="../forms/propertiesdialog.ui" line="570"/>
         <source>Hide tab bar with only one tab</source>
         <translation>只有一個分頁時隱藏分頁列</translation>
     </message>
@@ -422,7 +422,7 @@
         <translation>捲軸位置</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="367"/>
+        <location filename="../forms/propertiesdialog.ui" line="392"/>
         <source>Start with preset:</source>
         <translation>以預設啟動：</translation>
     </message>
@@ -432,22 +432,22 @@
         <translation>終端機透明度</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="378"/>
+        <location filename="../forms/propertiesdialog.ui" line="403"/>
         <source>None (single terminal)</source>
         <translation>無 (單一終端機)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="383"/>
+        <location filename="../forms/propertiesdialog.ui" line="408"/>
         <source>2 terminals horizontally</source>
         <translation>2 個終端機水平分隔</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="388"/>
+        <location filename="../forms/propertiesdialog.ui" line="413"/>
         <source>2 terminals vertically</source>
         <translation>2 個終端機垂直分隔</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="393"/>
+        <location filename="../forms/propertiesdialog.ui" line="418"/>
         <source>4 terminals</source>
         <translation>4 個終端機</translation>
     </message>
@@ -477,7 +477,7 @@
         <translation>小工具樣式</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="501"/>
+        <location filename="../forms/propertiesdialog.ui" line="526"/>
         <source>Show the menu bar</source>
         <translation>顯示功能表單</translation>
     </message>
@@ -507,23 +507,23 @@
         <translation>在變更大小時顯示終端機大小</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="552"/>
+        <location filename="../forms/propertiesdialog.ui" line="577"/>
         <source>Fixed tab width:</source>
         <translation>固定的分頁寬度：</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="411"/>
-        <location filename="../forms/propertiesdialog.ui" line="562"/>
+        <location filename="../forms/propertiesdialog.ui" line="436"/>
+        <location filename="../forms/propertiesdialog.ui" line="587"/>
         <source>px</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="525"/>
+        <location filename="../forms/propertiesdialog.ui" line="550"/>
         <source>Show close button on each tab</source>
         <translation>在每個分頁上顯示關閉按鈕</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="401"/>
+        <location filename="../forms/propertiesdialog.ui" line="426"/>
         <source>Terminal margin</source>
         <translation>終端機邊界</translation>
     </message>
@@ -533,67 +533,67 @@
         <translation>使用字型中的方框繪製字元</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="508"/>
+        <location filename="../forms/propertiesdialog.ui" line="533"/>
         <source>Accelerators are activated by Alt and can interfere with the terminal.</source>
         <translation>已由 Alt 鍵啟用加速鍵並會與終端機造成干擾。</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="511"/>
+        <location filename="../forms/propertiesdialog.ui" line="536"/>
         <source>No menu bar accelerator</source>
         <translation>沒有選單列加速鍵</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="935"/>
+        <location filename="../forms/propertiesdialog.ui" line="967"/>
         <source>Emulation</source>
         <translation>模擬</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="743"/>
+        <location filename="../forms/propertiesdialog.ui" line="768"/>
         <source>Action after paste</source>
         <translation>貼上後的動作</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="809"/>
+        <location filename="../forms/propertiesdialog.ui" line="834"/>
         <source>Confirm multiline paste</source>
         <translation>確認多行貼上</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="816"/>
+        <location filename="../forms/propertiesdialog.ui" line="841"/>
         <source>Trim trailing newlines in pasted text</source>
         <translation>刪除貼上文字後的換行字符</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="860"/>
+        <location filename="../forms/propertiesdialog.ui" line="885"/>
         <source>Open new terminals in current working directory</source>
         <translation>在目前作用的目錄開啟新的終端機</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="579"/>
+        <location filename="../forms/propertiesdialog.ui" line="604"/>
         <source>Save Size when closing</source>
         <translation>關閉時儲存大小</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="572"/>
+        <location filename="../forms/propertiesdialog.ui" line="597"/>
         <source>Save Position when closing</source>
         <translation>關閉時儲存位置</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="736"/>
+        <location filename="../forms/propertiesdialog.ui" line="761"/>
         <source>Unlimited history</source>
         <translation>無限制歷史紀錄</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="716"/>
+        <location filename="../forms/propertiesdialog.ui" line="741"/>
         <source>History size (in lines)</source>
         <translation>歷史紀錄大小(行)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="884"/>
+        <location filename="../forms/propertiesdialog.ui" line="916"/>
         <source>Default $TERM</source>
         <translation>預設 $TERM</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="598"/>
+        <location filename="../forms/propertiesdialog.ui" line="623"/>
         <source>Start with this size:</source>
         <translation>啟動時用此大小：</translation>
     </message>
@@ -643,48 +643,48 @@
         <translation>使用粗體字用於強調顏色時</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="518"/>
+        <location filename="../forms/propertiesdialog.ui" line="543"/>
         <source>&amp;Hide Window Borders</source>
         <translation>隱藏視窗邊框(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="944"/>
+        <location filename="../forms/propertiesdialog.ui" line="976"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Which behavior to emulate. Note that this does not have to match your operating system.&lt;/p&gt;&lt;p&gt;If you are not sure, use the &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; emulation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;模擬哪種行為。這並不需要與您的作業系統一致。&lt;/p&gt;&lt;p&gt;如果不確定的話，使用 &lt;span style=&quot; font-weight:600;&quot;&gt;預設&lt;/span&gt;的模擬。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="605"/>
-        <location filename="../forms/propertiesdialog.ui" line="619"/>
+        <location filename="../forms/propertiesdialog.ui" line="630"/>
+        <location filename="../forms/propertiesdialog.ui" line="644"/>
         <source> px</source>
         <translation> px</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="626"/>
+        <location filename="../forms/propertiesdialog.ui" line="651"/>
         <source>Get current size</source>
         <translation>取得目前的大小</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="870"/>
+        <location filename="../forms/propertiesdialog.ui" line="895"/>
         <source>Open new tab to the right of the active tab</source>
         <translation>在作用分頁的右邊開啟新的分頁</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="867"/>
+        <location filename="../forms/propertiesdialog.ui" line="892"/>
         <source>If unchecked the new tab will be opened as the rightmost tab</source>
         <translation>若未勾選，則新分頁開啟會在全部分頁的最右側</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="535"/>
+        <location filename="../forms/propertiesdialog.ui" line="560"/>
         <source>Close tab on middle-click</source>
         <translation>使用滑鼠中間按鍵關閉分頁</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="802"/>
+        <location filename="../forms/propertiesdialog.ui" line="827"/>
         <source>Forcefully disable bracketed paste mode</source>
         <translation>強制停用括號貼上模式</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="756"/>
+        <location filename="../forms/propertiesdialog.ui" line="781"/>
         <source>Word selection characters</source>
         <translation>字詞選擇字元</translation>
     </message>
@@ -704,107 +704,137 @@
         <translation>填滿</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="418"/>
+        <location filename="../forms/propertiesdialog.ui" line="364"/>
+        <source>Tiled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="369"/>
+        <source>Top Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="374"/>
+        <source>Top Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="379"/>
+        <source>Bottom Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="384"/>
+        <source>Bottom Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="443"/>
         <source>Current Terminal</source>
         <translation>目前終端機</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="424"/>
+        <location filename="../forms/propertiesdialog.ui" line="449"/>
         <source>Draw a border</source>
         <translation>畫出邊框</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="431"/>
+        <location filename="../forms/propertiesdialog.ui" line="456"/>
         <source>Set the current terminal on mouseover</source>
         <translation>將滑鼠游標設定於目前終端機</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="438"/>
+        <location filename="../forms/propertiesdialog.ui" line="463"/>
         <source>Change window title based on the terminal</source>
         <translation>變更視窗標題基於終端機</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="445"/>
+        <location filename="../forms/propertiesdialog.ui" line="470"/>
         <source>Change window icon based on the terminal</source>
         <translation>變更視窗圖示基於終端機</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="586"/>
+        <location filename="../forms/propertiesdialog.ui" line="611"/>
         <source>Save State when closing</source>
         <translation>關閉時儲存狀態</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="763"/>
+        <location filename="../forms/propertiesdialog.ui" line="788"/>
         <source>When selecting text by word, consider these characters as part of words in addition to alphanumeric characters</source>
         <translation>當依照單字選取文字時，除了字母數字字元外，將這些字元視為單字的一部分</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="766"/>
+        <location filename="../forms/propertiesdialog.ui" line="791"/>
         <source>:@-./_~</source>
         <translation>:@-./_~</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="773"/>
+        <location filename="../forms/propertiesdialog.ui" line="798"/>
         <source>Mouse cursor hiding delay</source>
         <translation>滑鼠游標隱藏延遲</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="780"/>
+        <location filename="../forms/propertiesdialog.ui" line="805"/>
         <source>No hiding</source>
         <translation>不要隱藏</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="783"/>
+        <location filename="../forms/propertiesdialog.ui" line="808"/>
         <source> sec</source>
         <translation> 秒</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="799"/>
+        <location filename="../forms/propertiesdialog.ui" line="824"/>
         <source>Bracketed paste mode is useful for pasting multiline strings.</source>
         <translation>括號貼上模式在貼上多行文字時會很有用。</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="823"/>
+        <location filename="../forms/propertiesdialog.ui" line="848"/>
         <source>Allow applications to embed clickable hyperlinks using the OSC-8 terminal sequence</source>
         <translation>允許應用程式使用 OSC-8 終端序列進行嵌入可以點按的超連結</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="826"/>
+        <location filename="../forms/propertiesdialog.ui" line="851"/>
         <source>Enable OSC-8 hyperlinks</source>
         <translation>啟用 OSC-8 超連結</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="833"/>
+        <location filename="../forms/propertiesdialog.ui" line="858"/>
         <source>Show the destination URL when hovering over a link</source>
         <translation>當游標停置在連結上時，顯示目的地的 URL</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="836"/>
+        <location filename="../forms/propertiesdialog.ui" line="861"/>
         <source>Show link destination on hover</source>
         <translation>顯示連結的目的地於游標位置上</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="843"/>
+        <location filename="../forms/propertiesdialog.ui" line="868"/>
         <source>When enabled, links open only with Ctrl+Click or from the context menu. When disabled, a plain click opens the link.</source>
         <translation>當啟用之時，連結開啟只能使用 Ctrl+Click ，或是從浮動選單。當停用之時，點按一下即可開啟連結。</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="846"/>
+        <location filename="../forms/propertiesdialog.ui" line="871"/>
         <source>Open links with Ctrl+Click</source>
         <translation>開啟連結使用 Ctrl+Click</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="853"/>
+        <location filename="../forms/propertiesdialog.ui" line="878"/>
         <source>Prompt on closing with a running process</source>
         <translation>正在運行的程序在關閉之時發出提示</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="877"/>
+        <location filename="../forms/propertiesdialog.ui" line="902"/>
+        <source>Visual bell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="909"/>
         <source>Audible bell</source>
         <translation>聽到鈴聲</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="920"/>
+        <location filename="../forms/propertiesdialog.ui" line="952"/>
         <source>This command will be run with an argument containing the file name of a tempfile containing the scrollback history
 Defaults to $VISUAL
                  </source>
@@ -814,12 +844,12 @@ Defaults to $VISUAL
                  </translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="925"/>
+        <location filename="../forms/propertiesdialog.ui" line="957"/>
         <source>History viewer command</source>
         <translation>歷史記錄檢視器指令</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="968"/>
+        <location filename="../forms/propertiesdialog.ui" line="1000"/>
         <source>To edit a Shortcut:
 1. Double-click its Key
 2. Press the desired combination and release it
@@ -834,88 +864,88 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
 如果要移除/停用快速鍵，在步驟2時只要按下修飾鍵 (像是 Shift 鍵)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="998"/>
+        <location filename="../forms/propertiesdialog.ui" line="1030"/>
         <source>Shortcut</source>
         <translation>快速鍵</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1003"/>
+        <location filename="../forms/propertiesdialog.ui" line="1035"/>
         <source>Key</source>
         <translation>按鍵</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1015"/>
+        <location filename="../forms/propertiesdialog.ui" line="1047"/>
         <source>Show on start</source>
         <translation>在啟動時顯示</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1022"/>
+        <location filename="../forms/propertiesdialog.ui" line="1054"/>
         <source>A lock button is shown on horizontal tab bar</source>
         <translation>在分頁列上會顯示鎖定鈕</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1025"/>
+        <location filename="../forms/propertiesdialog.ui" line="1057"/>
         <source>Keep window open when it loses focus</source>
         <translation>當視窗不在焦點時仍保持開啟</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1032"/>
+        <location filename="../forms/propertiesdialog.ui" line="1064"/>
         <source>Size</source>
         <translation>大小</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1043"/>
+        <location filename="../forms/propertiesdialog.ui" line="1075"/>
         <source>Height</source>
         <translation>高度</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1053"/>
-        <location filename="../forms/propertiesdialog.ui" line="1076"/>
+        <location filename="../forms/propertiesdialog.ui" line="1085"/>
+        <location filename="../forms/propertiesdialog.ui" line="1108"/>
         <source>%</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1066"/>
+        <location filename="../forms/propertiesdialog.ui" line="1098"/>
         <source>Width</source>
         <translation>寬度</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1096"/>
+        <location filename="../forms/propertiesdialog.ui" line="1128"/>
         <source>Shortcut:</source>
         <translation>快速鍵：</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1105"/>
+        <location filename="../forms/propertiesdialog.ui" line="1137"/>
         <source>Note: On Wayland, the shortcut has to be added in the compositor settings for &apos;qterminal -d&apos;.</source>
         <translation>注意：在 Wayland 上，快速鍵必須加入在合成器設定中用於 &apos;qterminal -d&apos; 。</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1133"/>
+        <location filename="../forms/propertiesdialog.ui" line="1165"/>
         <source>Lock shortcut:</source>
         <translation>鎖定快速鍵：</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1200"/>
+        <location filename="../forms/propertiesdialog.ui" line="1232"/>
         <source>Edit bookmark file contents</source>
         <translation>編輯書籤檔案內容</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1159"/>
+        <location filename="../forms/propertiesdialog.ui" line="1191"/>
         <source>Enable bookmarks</source>
         <translation>啟用書籤</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1168"/>
+        <location filename="../forms/propertiesdialog.ui" line="1200"/>
         <source>Bookmark file</source>
         <translation>書籤檔案</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1181"/>
+        <location filename="../forms/propertiesdialog.ui" line="1213"/>
         <source>Find...</source>
         <translation>尋找…</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1190"/>
+        <location filename="../forms/propertiesdialog.ui" line="1222"/>
         <source>You can specify your own bookmarks file location. It allows easy bookmark sharing with tools like OwnCloud or Dropbox.</source>
         <translation>可以特別指定自有書籤檔案位置。它可以容易地將書籤分享，利用像是 OwnCloud 或 Dropbox 工具。</translation>
     </message>
@@ -962,61 +992,61 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
         <translation>捲動到最下方</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="294"/>
+        <location filename="../propertiesdialog.cpp" line="295"/>
         <source>Examples</source>
         <translation>範例</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="468"/>
+        <location filename="../propertiesdialog.cpp" line="470"/>
         <source>Images (*.bmp *.jpg *.png *.svg *.xpm)</source>
         <translation>圖片 (*.bmp *.jpg *.png *.svg *.xpm)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="570"/>
+        <location filename="../propertiesdialog.cpp" line="572"/>
         <source>Open bookmarks file</source>
         <translation>開啟書籤檔案</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="572"/>
+        <location filename="../propertiesdialog.cpp" line="574"/>
         <source>XML files (*.xml)</source>
         <translation>XML 檔案 (*.xml)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="573"/>
+        <location filename="../propertiesdialog.cpp" line="575"/>
         <source>All files (*)</source>
         <translation>全部檔案 (*)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="672"/>
-        <location filename="../propertiesdialog.cpp" line="676"/>
+        <location filename="../propertiesdialog.cpp" line="674"/>
+        <location filename="../propertiesdialog.cpp" line="678"/>
         <source>Question</source>
         <translation>問題</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="672"/>
+        <location filename="../propertiesdialog.cpp" line="674"/>
         <source>Do you want to overwrite this bookmarks file?</source>
         <translation>確定要覆寫這個書籤檔案嗎？</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="676"/>
+        <location filename="../propertiesdialog.cpp" line="678"/>
         <source>The name of bookmarks file does not end with &apos;.xml&apos;.
 Are you sure that you want to overwrite it?</source>
         <translation>書籤檔案的檔名並不是以 &apos;.xml&apos; 結尾。
 確定要真的要覆寫它嗎？</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="684"/>
+        <location filename="../propertiesdialog.cpp" line="686"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="684"/>
+        <location filename="../propertiesdialog.cpp" line="686"/>
         <source>Cannot write bookmarks to this file:</source>
         <translation>無法將書籤寫入此檔案：</translation>
     </message>
     <message>
         <location filename="../propertiesdialog.cpp" line="225"/>
-        <location filename="../propertiesdialog.cpp" line="350"/>
+        <location filename="../propertiesdialog.cpp" line="351"/>
         <source>System Default</source>
         <translation>系統預設</translation>
     </message>
@@ -1036,7 +1066,7 @@ Are you sure that you want to overwrite it?</source>
         <translation>I型指標</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="467"/>
+        <location filename="../propertiesdialog.cpp" line="469"/>
         <source>Choose a background image</source>
         <translation>選擇背景圖片</translation>
     </message>

@@ -376,7 +376,7 @@
 <context>
     <name>PropertiesDialog</name>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="935"/>
+        <location filename="../forms/propertiesdialog.ui" line="967"/>
         <source>Emulation</source>
         <translation>エミュレーション</translation>
     </message>
@@ -397,7 +397,7 @@
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="38"/>
-        <location filename="../forms/propertiesdialog.ui" line="710"/>
+        <location filename="../forms/propertiesdialog.ui" line="735"/>
         <source>Behavior</source>
         <translation>動作</translation>
     </message>
@@ -427,7 +427,7 @@
         <translation>タブの位置</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="501"/>
+        <location filename="../forms/propertiesdialog.ui" line="526"/>
         <source>Show the menu bar</source>
         <translation>メニューバーを表示する</translation>
     </message>
@@ -437,27 +437,27 @@
         <translation>ターミナルの透過</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="367"/>
+        <location filename="../forms/propertiesdialog.ui" line="392"/>
         <source>Start with preset:</source>
         <translation>起動時のプリセット:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="378"/>
+        <location filename="../forms/propertiesdialog.ui" line="403"/>
         <source>None (single terminal)</source>
         <translation>画面分割なし</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="383"/>
+        <location filename="../forms/propertiesdialog.ui" line="408"/>
         <source>2 terminals horizontally</source>
         <translation>2分割 (上下)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="388"/>
+        <location filename="../forms/propertiesdialog.ui" line="413"/>
         <source>2 terminals vertically</source>
         <translation>2分割 (左右)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="393"/>
+        <location filename="../forms/propertiesdialog.ui" line="418"/>
         <source>4 terminals</source>
         <translation>4分割</translation>
     </message>
@@ -487,18 +487,18 @@
         <translation>ターミナルのサイズ変更時にサイズを表示する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="411"/>
-        <location filename="../forms/propertiesdialog.ui" line="562"/>
+        <location filename="../forms/propertiesdialog.ui" line="436"/>
+        <location filename="../forms/propertiesdialog.ui" line="587"/>
         <source>px</source>
         <translation>ピクセル</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="525"/>
+        <location filename="../forms/propertiesdialog.ui" line="550"/>
         <source>Show close button on each tab</source>
         <translation>各タブに「閉じる」ボタンを表示する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="401"/>
+        <location filename="../forms/propertiesdialog.ui" line="426"/>
         <source>Terminal margin</source>
         <translation>ターミナルの余白</translation>
     </message>
@@ -508,62 +508,62 @@
         <translation>フォントに含まれる罫線文字を使用する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="508"/>
+        <location filename="../forms/propertiesdialog.ui" line="533"/>
         <source>Accelerators are activated by Alt and can interfere with the terminal.</source>
         <translation>Alt キーによってアクティブ化したアクセラレーターは、ターミナルに干渉することがあります。</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="511"/>
+        <location filename="../forms/propertiesdialog.ui" line="536"/>
         <source>No menu bar accelerator</source>
         <translation>メニューバーのアクセラレーターを無効にする</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="743"/>
+        <location filename="../forms/propertiesdialog.ui" line="768"/>
         <source>Action after paste</source>
         <translation>貼り付け後の動作</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="809"/>
+        <location filename="../forms/propertiesdialog.ui" line="834"/>
         <source>Confirm multiline paste</source>
         <translation>複数行の貼り付け時に確認する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="816"/>
+        <location filename="../forms/propertiesdialog.ui" line="841"/>
         <source>Trim trailing newlines in pasted text</source>
         <translation>テキスト末尾の改行を貼り付け時に削除する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="860"/>
+        <location filename="../forms/propertiesdialog.ui" line="885"/>
         <source>Open new terminals in current working directory</source>
         <translation>現在の作業ディレクトリで新しいターミナルを開く</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="579"/>
+        <location filename="../forms/propertiesdialog.ui" line="604"/>
         <source>Save Size when closing</source>
         <translation>閉じる時にサイズを保存する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="572"/>
+        <location filename="../forms/propertiesdialog.ui" line="597"/>
         <source>Save Position when closing</source>
         <translation>閉じる時に位置を保存する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="736"/>
+        <location filename="../forms/propertiesdialog.ui" line="761"/>
         <source>Unlimited history</source>
         <translation>履歴を制限しない</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="716"/>
+        <location filename="../forms/propertiesdialog.ui" line="741"/>
         <source>History size (in lines)</source>
         <translation>履歴のサイズ (行数)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="884"/>
+        <location filename="../forms/propertiesdialog.ui" line="916"/>
         <source>Default $TERM</source>
         <translation>デフォルトの $TERM</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="598"/>
+        <location filename="../forms/propertiesdialog.ui" line="623"/>
         <source>Start with this size:</source>
         <translation>起動時のサイズ:</translation>
     </message>
@@ -613,48 +613,48 @@
         <translation>鮮やかな色には太字フォントを使用する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="518"/>
+        <location filename="../forms/propertiesdialog.ui" line="543"/>
         <source>&amp;Hide Window Borders</source>
         <translation>ウィンドウ枠を隠す(&amp;H)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="944"/>
+        <location filename="../forms/propertiesdialog.ui" line="976"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Which behavior to emulate. Note that this does not have to match your operating system.&lt;/p&gt;&lt;p&gt;If you are not sure, use the &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; emulation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;どの動作をエミュレートするか。これはオペレーティングシステムと一致する必要はありません。&lt;/p&gt;&lt;p&gt;不明な場合は &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; エミュレーションを使用してください。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="605"/>
-        <location filename="../forms/propertiesdialog.ui" line="619"/>
+        <location filename="../forms/propertiesdialog.ui" line="630"/>
+        <location filename="../forms/propertiesdialog.ui" line="644"/>
         <source> px</source>
         <translation> ピクセル</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="626"/>
+        <location filename="../forms/propertiesdialog.ui" line="651"/>
         <source>Get current size</source>
         <translation>現在のサイズを取得</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="870"/>
+        <location filename="../forms/propertiesdialog.ui" line="895"/>
         <source>Open new tab to the right of the active tab</source>
         <translation>新しいタブをアクティブなタブの右側に開く</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="867"/>
+        <location filename="../forms/propertiesdialog.ui" line="892"/>
         <source>If unchecked the new tab will be opened as the rightmost tab</source>
         <translation>チェックがオフなら新しいタブが右端に開きます</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="535"/>
+        <location filename="../forms/propertiesdialog.ui" line="560"/>
         <source>Close tab on middle-click</source>
         <translation>中クリックでタブを閉じる</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="802"/>
+        <location filename="../forms/propertiesdialog.ui" line="827"/>
         <source>Forcefully disable bracketed paste mode</source>
         <translation>ブラケットペーストモードを強制的に無効にする</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="756"/>
+        <location filename="../forms/propertiesdialog.ui" line="781"/>
         <source>Word selection characters</source>
         <translation>単語選択文字</translation>
     </message>
@@ -674,107 +674,137 @@
         <translation>塗りつぶす</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="418"/>
+        <location filename="../forms/propertiesdialog.ui" line="364"/>
+        <source>Tiled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="369"/>
+        <source>Top Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="374"/>
+        <source>Top Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="379"/>
+        <source>Bottom Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="384"/>
+        <source>Bottom Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="443"/>
         <source>Current Terminal</source>
         <translation>現在のターミナル</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="424"/>
+        <location filename="../forms/propertiesdialog.ui" line="449"/>
         <source>Draw a border</source>
         <translation>境界を描画する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="431"/>
+        <location filename="../forms/propertiesdialog.ui" line="456"/>
         <source>Set the current terminal on mouseover</source>
         <translation>マウスオーバーで現在のターミナルを設定する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="438"/>
+        <location filename="../forms/propertiesdialog.ui" line="463"/>
         <source>Change window title based on the terminal</source>
         <translation>ウィンドウのタイトルを現在のターミナルに基づいて変更する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="445"/>
+        <location filename="../forms/propertiesdialog.ui" line="470"/>
         <source>Change window icon based on the terminal</source>
         <translation>ウィンドウのアイコンを現在のターミナルに基づいて変更する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="586"/>
+        <location filename="../forms/propertiesdialog.ui" line="611"/>
         <source>Save State when closing</source>
         <translation>閉じる時に状態を保存する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="763"/>
+        <location filename="../forms/propertiesdialog.ui" line="788"/>
         <source>When selecting text by word, consider these characters as part of words in addition to alphanumeric characters</source>
         <translation>単語単位でテキストを選択する際は、英数字に加えてこれらの文字も単語の一部として考慮する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="766"/>
+        <location filename="../forms/propertiesdialog.ui" line="791"/>
         <source>:@-./_~</source>
         <translation>:@-./_~</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="773"/>
+        <location filename="../forms/propertiesdialog.ui" line="798"/>
         <source>Mouse cursor hiding delay</source>
         <translation>マウスカーソルを隠すまでの時間</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="780"/>
+        <location filename="../forms/propertiesdialog.ui" line="805"/>
         <source>No hiding</source>
         <translation>隠さない</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="783"/>
+        <location filename="../forms/propertiesdialog.ui" line="808"/>
         <source> sec</source>
         <translation> 秒</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="799"/>
+        <location filename="../forms/propertiesdialog.ui" line="824"/>
         <source>Bracketed paste mode is useful for pasting multiline strings.</source>
         <translation>ブラケットペーストモードは複数行の文字列をペーストする場合に便利です。</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="823"/>
+        <location filename="../forms/propertiesdialog.ui" line="848"/>
         <source>Allow applications to embed clickable hyperlinks using the OSC-8 terminal sequence</source>
         <translation>アプリケーションが OSC-8 ターミナルシーケンスを使用して、クリック可能なハイパーリンクを埋め込むことを許可する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="826"/>
+        <location filename="../forms/propertiesdialog.ui" line="851"/>
         <source>Enable OSC-8 hyperlinks</source>
         <translation>OSC-8 ハイパーリンクを有効にする</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="833"/>
+        <location filename="../forms/propertiesdialog.ui" line="858"/>
         <source>Show the destination URL when hovering over a link</source>
         <translation>リンクにカーソルを合わせたときに、目的の URL を表示する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="836"/>
+        <location filename="../forms/propertiesdialog.ui" line="861"/>
         <source>Show link destination on hover</source>
         <translation>ホバー時にリンク先を表示</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="843"/>
+        <location filename="../forms/propertiesdialog.ui" line="868"/>
         <source>When enabled, links open only with Ctrl+Click or from the context menu. When disabled, a plain click opens the link.</source>
         <translation>有効にすると、リンクは Ctrl キーを押しながらクリックするか、コンテキストメニューからのみ開きます。無効にすると、クリックするだけでリンクを開きます。</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="846"/>
+        <location filename="../forms/propertiesdialog.ui" line="871"/>
         <source>Open links with Ctrl+Click</source>
         <translation>リンクを Ctrl+クリック で開く</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="853"/>
+        <location filename="../forms/propertiesdialog.ui" line="878"/>
         <source>Prompt on closing with a running process</source>
         <translation>実行中のプロセスを閉じるときに警告メッセージを表示する</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="877"/>
+        <location filename="../forms/propertiesdialog.ui" line="902"/>
+        <source>Visual bell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="909"/>
         <source>Audible bell</source>
         <translation>ベルを鳴らす</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="920"/>
+        <location filename="../forms/propertiesdialog.ui" line="952"/>
         <source>This command will be run with an argument containing the file name of a tempfile containing the scrollback history
 Defaults to $VISUAL
                  </source>
@@ -783,12 +813,12 @@ Defaults to $VISUAL
                  </translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="925"/>
+        <location filename="../forms/propertiesdialog.ui" line="957"/>
         <source>History viewer command</source>
         <translation>履歴ビューアのコマンド</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="968"/>
+        <location filename="../forms/propertiesdialog.ui" line="1000"/>
         <source>To edit a Shortcut:
 1. Double-click its Key
 2. Press the desired combination and release it
@@ -803,53 +833,53 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
 ショートカットキーを削除または無効にするには、2 番目で(Shift のような)修飾キーのみを押します</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1022"/>
+        <location filename="../forms/propertiesdialog.ui" line="1054"/>
         <source>A lock button is shown on horizontal tab bar</source>
         <translation>ロックボタンが水平タブバーに表示されます</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1025"/>
+        <location filename="../forms/propertiesdialog.ui" line="1057"/>
         <source>Keep window open when it loses focus</source>
         <translation>フォーカスを失った時にウィンドウを開いたままにする</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1043"/>
+        <location filename="../forms/propertiesdialog.ui" line="1075"/>
         <source>Height</source>
         <translation>高さ</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1053"/>
-        <location filename="../forms/propertiesdialog.ui" line="1076"/>
+        <location filename="../forms/propertiesdialog.ui" line="1085"/>
+        <location filename="../forms/propertiesdialog.ui" line="1108"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1066"/>
+        <location filename="../forms/propertiesdialog.ui" line="1098"/>
         <source>Width</source>
         <translation>幅</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1105"/>
+        <location filename="../forms/propertiesdialog.ui" line="1137"/>
         <source>Note: On Wayland, the shortcut has to be added in the compositor settings for &apos;qterminal -d&apos;.</source>
         <translation>注意: Wayland ではショートカットを「qterminal -d」のためにコンポジター設定に追加する必要があります。</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1133"/>
+        <location filename="../forms/propertiesdialog.ui" line="1165"/>
         <source>Lock shortcut:</source>
         <translation>ロックのショートカット:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1200"/>
+        <location filename="../forms/propertiesdialog.ui" line="1232"/>
         <source>Edit bookmark file contents</source>
         <translation>ブックマークファイルのコンテンツを編集</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1159"/>
+        <location filename="../forms/propertiesdialog.ui" line="1191"/>
         <source>Enable bookmarks</source>
         <translation>ブックマークを有効にする</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1168"/>
+        <location filename="../forms/propertiesdialog.ui" line="1200"/>
         <source>Bookmark file</source>
         <translation>ブックマークファイル</translation>
     </message>
@@ -859,12 +889,12 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
         <translation> %</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="998"/>
+        <location filename="../forms/propertiesdialog.ui" line="1030"/>
         <source>Shortcut</source>
         <translation>ショートカット</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1003"/>
+        <location filename="../forms/propertiesdialog.ui" line="1035"/>
         <source>Key</source>
         <translation>キー割当</translation>
     </message>
@@ -874,7 +904,7 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
         <translation>ブックマーク</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="545"/>
+        <location filename="../forms/propertiesdialog.ui" line="570"/>
         <source>Hide tab bar with only one tab</source>
         <translation>タブが 1 つの場合タブバーを隠す</translation>
     </message>
@@ -889,32 +919,32 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
         <translation>カーソルの形</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="552"/>
+        <location filename="../forms/propertiesdialog.ui" line="577"/>
         <source>Fixed tab width:</source>
         <translation>タブタイトルの幅を固定する:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1015"/>
+        <location filename="../forms/propertiesdialog.ui" line="1047"/>
         <source>Show on start</source>
         <translation>開始時に表示</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1032"/>
+        <location filename="../forms/propertiesdialog.ui" line="1064"/>
         <source>Size</source>
         <translation>サイズ</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1096"/>
+        <location filename="../forms/propertiesdialog.ui" line="1128"/>
         <source>Shortcut:</source>
         <translation>ショートカット:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1181"/>
+        <location filename="../forms/propertiesdialog.ui" line="1213"/>
         <source>Find...</source>
         <translation>検索...</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1190"/>
+        <location filename="../forms/propertiesdialog.ui" line="1222"/>
         <source>You can specify your own bookmarks file location. It allows easy bookmark sharing with tools like OwnCloud or Dropbox.</source>
         <translation>ブックマークファイルの場所を指定できます。OwnCloud や Dropbox などのツールでブックマークを簡単に共有できます。</translation>
     </message>
@@ -961,60 +991,60 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
         <translation>最下部へスクロール</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="294"/>
+        <location filename="../propertiesdialog.cpp" line="295"/>
         <source>Examples</source>
         <translation>例</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="468"/>
+        <location filename="../propertiesdialog.cpp" line="470"/>
         <source>Images (*.bmp *.jpg *.png *.svg *.xpm)</source>
         <translation>画像 (*.bmp *.jpg *.png *.svg *.xpm)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="570"/>
+        <location filename="../propertiesdialog.cpp" line="572"/>
         <source>Open bookmarks file</source>
         <translation>ブックマークファイルを開く</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="572"/>
+        <location filename="../propertiesdialog.cpp" line="574"/>
         <source>XML files (*.xml)</source>
         <translation>XML files (*.xml)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="573"/>
+        <location filename="../propertiesdialog.cpp" line="575"/>
         <source>All files (*)</source>
         <translation>すべてのファイル (*)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="672"/>
-        <location filename="../propertiesdialog.cpp" line="676"/>
+        <location filename="../propertiesdialog.cpp" line="674"/>
+        <location filename="../propertiesdialog.cpp" line="678"/>
         <source>Question</source>
         <translation>質問</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="672"/>
+        <location filename="../propertiesdialog.cpp" line="674"/>
         <source>Do you want to overwrite this bookmarks file?</source>
         <translation>ブックマークファイルに上書きしますか?</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="676"/>
+        <location filename="../propertiesdialog.cpp" line="678"/>
         <source>The name of bookmarks file does not end with &apos;.xml&apos;.
 Are you sure that you want to overwrite it?</source>
         <translation>ブックマークファイルの拡張子が&apos;.xml&apos;.で終わっていません。本当に上書きしますか？</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="684"/>
+        <location filename="../propertiesdialog.cpp" line="686"/>
         <source>Warning</source>
         <translation>注意</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="684"/>
+        <location filename="../propertiesdialog.cpp" line="686"/>
         <source>Cannot write bookmarks to this file:</source>
         <translation>このファイルにはブックマークを記録できません:</translation>
     </message>
     <message>
         <location filename="../propertiesdialog.cpp" line="225"/>
-        <location filename="../propertiesdialog.cpp" line="350"/>
+        <location filename="../propertiesdialog.cpp" line="351"/>
         <source>System Default</source>
         <translation>システムのデフォルト</translation>
     </message>
@@ -1034,7 +1064,7 @@ Are you sure that you want to overwrite it?</source>
         <translation>I ビーム</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="467"/>
+        <location filename="../propertiesdialog.cpp" line="469"/>
         <source>Choose a background image</source>
         <translation>背景画像の選択</translation>
     </message>

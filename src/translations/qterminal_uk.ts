@@ -387,7 +387,7 @@
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="38"/>
-        <location filename="../forms/propertiesdialog.ui" line="710"/>
+        <location filename="../forms/propertiesdialog.ui" line="735"/>
         <source>Behavior</source>
         <translation>Поведінка</translation>
     </message>
@@ -407,7 +407,7 @@
         <translation>Закладки</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="545"/>
+        <location filename="../forms/propertiesdialog.ui" line="570"/>
         <source>Hide tab bar with only one tab</source>
         <translation>Приховати панель вкладок з лише однією вкладкою</translation>
     </message>
@@ -422,7 +422,7 @@
         <translation>Позиція прокрутки</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="367"/>
+        <location filename="../forms/propertiesdialog.ui" line="392"/>
         <source>Start with preset:</source>
         <translation>Старт з типовими налаштуваннями:</translation>
     </message>
@@ -432,22 +432,22 @@
         <translation>Прозорість терміналу</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="378"/>
+        <location filename="../forms/propertiesdialog.ui" line="403"/>
         <source>None (single terminal)</source>
         <translation>Нічого (один термінал)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="383"/>
+        <location filename="../forms/propertiesdialog.ui" line="408"/>
         <source>2 terminals horizontally</source>
         <translation>2 термінали горизонтально</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="388"/>
+        <location filename="../forms/propertiesdialog.ui" line="413"/>
         <source>2 terminals vertically</source>
         <translation>2 термінали вертикально</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="393"/>
+        <location filename="../forms/propertiesdialog.ui" line="418"/>
         <source>4 terminals</source>
         <translation>4 термінали</translation>
     </message>
@@ -477,7 +477,7 @@
         <translation>Стиль віджетів</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="501"/>
+        <location filename="../forms/propertiesdialog.ui" line="526"/>
         <source>Show the menu bar</source>
         <translation>Показати панель меню</translation>
     </message>
@@ -507,23 +507,23 @@
         <translation>Показувати розмір термінала під час зміни розміру</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="552"/>
+        <location filename="../forms/propertiesdialog.ui" line="577"/>
         <source>Fixed tab width:</source>
         <translation>Стала ширина вкладки:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="411"/>
-        <location filename="../forms/propertiesdialog.ui" line="562"/>
+        <location filename="../forms/propertiesdialog.ui" line="436"/>
+        <location filename="../forms/propertiesdialog.ui" line="587"/>
         <source>px</source>
         <translation>пікселів</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="525"/>
+        <location filename="../forms/propertiesdialog.ui" line="550"/>
         <source>Show close button on each tab</source>
         <translation>Показувати кнопку закриття на кожній вкладці</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="401"/>
+        <location filename="../forms/propertiesdialog.ui" line="426"/>
         <source>Terminal margin</source>
         <translation>Поля термінала</translation>
     </message>
@@ -533,67 +533,67 @@
         <translation>Скористайтеся псевдографічними символами, які міститься у шрифті</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="508"/>
+        <location filename="../forms/propertiesdialog.ui" line="533"/>
         <source>Accelerators are activated by Alt and can interfere with the terminal.</source>
         <translation>Прискорювачі активуються Alt і можуть заважати роботі терміналу.</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="511"/>
+        <location filename="../forms/propertiesdialog.ui" line="536"/>
         <source>No menu bar accelerator</source>
         <translation>Немає прискорювача панелі меню</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="935"/>
+        <location filename="../forms/propertiesdialog.ui" line="967"/>
         <source>Emulation</source>
         <translation>Емуляція</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="743"/>
+        <location filename="../forms/propertiesdialog.ui" line="768"/>
         <source>Action after paste</source>
         <translation>Дія після вставляння</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="809"/>
+        <location filename="../forms/propertiesdialog.ui" line="834"/>
         <source>Confirm multiline paste</source>
         <translation>Підтвердити вставляння кількох рядків</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="816"/>
+        <location filename="../forms/propertiesdialog.ui" line="841"/>
         <source>Trim trailing newlines in pasted text</source>
         <translation>Видаляти знаки нових рядків з кінця вставленого тексту</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="860"/>
+        <location filename="../forms/propertiesdialog.ui" line="885"/>
         <source>Open new terminals in current working directory</source>
         <translation>Відкрити нові термінали в поточній робочій теці</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="579"/>
+        <location filename="../forms/propertiesdialog.ui" line="604"/>
         <source>Save Size when closing</source>
         <translation>Зберігати розмір під час закривання</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="572"/>
+        <location filename="../forms/propertiesdialog.ui" line="597"/>
         <source>Save Position when closing</source>
         <translation>Зберегти розташування під час закривання</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="736"/>
+        <location filename="../forms/propertiesdialog.ui" line="761"/>
         <source>Unlimited history</source>
         <translation>Нескінченна історія</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="716"/>
+        <location filename="../forms/propertiesdialog.ui" line="741"/>
         <source>History size (in lines)</source>
         <translation>Розмір історії (в лінійках)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="884"/>
+        <location filename="../forms/propertiesdialog.ui" line="916"/>
         <source>Default $TERM</source>
         <translation>Типовий $TERM</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="598"/>
+        <location filename="../forms/propertiesdialog.ui" line="623"/>
         <source>Start with this size:</source>
         <translation>Почніть з цього розміру:</translation>
     </message>
@@ -643,48 +643,48 @@
         <translation>Застосувати грубий шрифт для насичених кольорів</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="518"/>
+        <location filename="../forms/propertiesdialog.ui" line="543"/>
         <source>&amp;Hide Window Borders</source>
         <translation>&amp;Приховати межі вікна</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="944"/>
+        <location filename="../forms/propertiesdialog.ui" line="976"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Which behavior to emulate. Note that this does not have to match your operating system.&lt;/p&gt;&lt;p&gt;If you are not sure, use the &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; emulation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Яку поведінку наслідувати. Зверніть увагу, що це не обов&apos;язково має відповідати вашій операційній системі.&lt;/p&gt;&lt;p&gt;Якщо ви не впевнені, застосуйте &lt;span style=&quot; font-weight:600;&quot;&gt;типове&lt;/span&gt; наслідування.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="605"/>
-        <location filename="../forms/propertiesdialog.ui" line="619"/>
+        <location filename="../forms/propertiesdialog.ui" line="630"/>
+        <location filename="../forms/propertiesdialog.ui" line="644"/>
         <source> px</source>
         <translation> px</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="626"/>
+        <location filename="../forms/propertiesdialog.ui" line="651"/>
         <source>Get current size</source>
         <translation>Отримати поточний розмір</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="870"/>
+        <location filename="../forms/propertiesdialog.ui" line="895"/>
         <source>Open new tab to the right of the active tab</source>
         <translation>Відкрити нову вкладку праворуч від активної вкладки</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="867"/>
+        <location filename="../forms/propertiesdialog.ui" line="892"/>
         <source>If unchecked the new tab will be opened as the rightmost tab</source>
         <translation>Якщо не встановити прапорець, нова вкладка відкриється як крайня права вкладка</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="535"/>
+        <location filename="../forms/propertiesdialog.ui" line="560"/>
         <source>Close tab on middle-click</source>
         <translation>Закрити вкладку середньою клавішею</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="802"/>
+        <location filename="../forms/propertiesdialog.ui" line="827"/>
         <source>Forcefully disable bracketed paste mode</source>
         <translation>Примусово вимкнути режим вставлення в дужки</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="756"/>
+        <location filename="../forms/propertiesdialog.ui" line="781"/>
         <source>Word selection characters</source>
         <translation>Символи виділення слів</translation>
     </message>
@@ -704,119 +704,149 @@
         <translation>Заповнити</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="418"/>
+        <location filename="../forms/propertiesdialog.ui" line="364"/>
+        <source>Tiled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="369"/>
+        <source>Top Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="374"/>
+        <source>Top Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="379"/>
+        <source>Bottom Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="384"/>
+        <source>Bottom Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="443"/>
         <source>Current Terminal</source>
         <translation>Поточний термінал</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="424"/>
+        <location filename="../forms/propertiesdialog.ui" line="449"/>
         <source>Draw a border</source>
         <translation>Малювати рамку</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="431"/>
+        <location filename="../forms/propertiesdialog.ui" line="456"/>
         <source>Set the current terminal on mouseover</source>
         <translation>Встановити поточний термінал за наведенням миші</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="438"/>
+        <location filename="../forms/propertiesdialog.ui" line="463"/>
         <source>Change window title based on the terminal</source>
         <translation>Змінювати заголовок вікна на основі термінала</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="445"/>
+        <location filename="../forms/propertiesdialog.ui" line="470"/>
         <source>Change window icon based on the terminal</source>
         <translation>Змінювати піктограму вікна на основі термінала</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="586"/>
+        <location filename="../forms/propertiesdialog.ui" line="611"/>
         <source>Save State when closing</source>
         <translation>Зберігати стан під час закриття</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="763"/>
+        <location filename="../forms/propertiesdialog.ui" line="788"/>
         <source>When selecting text by word, consider these characters as part of words in addition to alphanumeric characters</source>
         <translation>Виділяючи текст за словами, вважати ці символи частиною слів на додаток до буквенно-цифрових символів</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="766"/>
+        <location filename="../forms/propertiesdialog.ui" line="791"/>
         <source>:@-./_~</source>
         <translation>:@-./_~</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="773"/>
+        <location filename="../forms/propertiesdialog.ui" line="798"/>
         <source>Mouse cursor hiding delay</source>
         <translation>Затримка приховування курсора миші</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="780"/>
+        <location filename="../forms/propertiesdialog.ui" line="805"/>
         <source>No hiding</source>
         <translation>Не ховати</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="783"/>
+        <location filename="../forms/propertiesdialog.ui" line="808"/>
         <source> sec</source>
         <translation> с</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="799"/>
+        <location filename="../forms/propertiesdialog.ui" line="824"/>
         <source>Bracketed paste mode is useful for pasting multiline strings.</source>
         <translation>Режим вставлення в дужки корисний для вставлення багаторядкових команд.</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="823"/>
+        <location filename="../forms/propertiesdialog.ui" line="848"/>
         <source>Allow applications to embed clickable hyperlinks using the OSC-8 terminal sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="826"/>
+        <location filename="../forms/propertiesdialog.ui" line="851"/>
         <source>Enable OSC-8 hyperlinks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="833"/>
+        <location filename="../forms/propertiesdialog.ui" line="858"/>
         <source>Show the destination URL when hovering over a link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="836"/>
+        <location filename="../forms/propertiesdialog.ui" line="861"/>
         <source>Show link destination on hover</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="843"/>
+        <location filename="../forms/propertiesdialog.ui" line="868"/>
         <source>When enabled, links open only with Ctrl+Click or from the context menu. When disabled, a plain click opens the link.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="846"/>
+        <location filename="../forms/propertiesdialog.ui" line="871"/>
         <source>Open links with Ctrl+Click</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="853"/>
+        <location filename="../forms/propertiesdialog.ui" line="878"/>
         <source>Prompt on closing with a running process</source>
         <translation>Підказка про закриття за наявності запущеного процесу</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="877"/>
+        <location filename="../forms/propertiesdialog.ui" line="902"/>
+        <source>Visual bell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="909"/>
         <source>Audible bell</source>
         <translation>Звуковий сигнал</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="920"/>
+        <location filename="../forms/propertiesdialog.ui" line="952"/>
         <source>This command will be run with an argument containing the file name of a tempfile containing the scrollback history
 Defaults to $VISUAL
                  </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="925"/>
+        <location filename="../forms/propertiesdialog.ui" line="957"/>
         <source>History viewer command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="968"/>
+        <location filename="../forms/propertiesdialog.ui" line="1000"/>
         <source>To edit a Shortcut:
 1. Double-click its Key
 2. Press the desired combination and release it
@@ -831,88 +861,88 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
 Щоб вилучити/вимкнути комбінацію клавіш, на 2 кроці натисніть лише модифікатор (наприклад, Shift)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="998"/>
+        <location filename="../forms/propertiesdialog.ui" line="1030"/>
         <source>Shortcut</source>
         <translation>Скорочення</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1003"/>
+        <location filename="../forms/propertiesdialog.ui" line="1035"/>
         <source>Key</source>
         <translation>Кнопка</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1015"/>
+        <location filename="../forms/propertiesdialog.ui" line="1047"/>
         <source>Show on start</source>
         <translation>Показати на старті</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1022"/>
+        <location filename="../forms/propertiesdialog.ui" line="1054"/>
         <source>A lock button is shown on horizontal tab bar</source>
         <translation>Кнопку блокування показано на горизонтальній панелі вкладок</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1025"/>
+        <location filename="../forms/propertiesdialog.ui" line="1057"/>
         <source>Keep window open when it loses focus</source>
         <translation>Не закривати вікно після перенесення фокусу</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1032"/>
+        <location filename="../forms/propertiesdialog.ui" line="1064"/>
         <source>Size</source>
         <translation>Розмір</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1043"/>
+        <location filename="../forms/propertiesdialog.ui" line="1075"/>
         <source>Height</source>
         <translation>Висота</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1053"/>
-        <location filename="../forms/propertiesdialog.ui" line="1076"/>
+        <location filename="../forms/propertiesdialog.ui" line="1085"/>
+        <location filename="../forms/propertiesdialog.ui" line="1108"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1066"/>
+        <location filename="../forms/propertiesdialog.ui" line="1098"/>
         <source>Width</source>
         <translation>Ширина</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1096"/>
+        <location filename="../forms/propertiesdialog.ui" line="1128"/>
         <source>Shortcut:</source>
         <translation>Комбінація клавіш:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1105"/>
+        <location filename="../forms/propertiesdialog.ui" line="1137"/>
         <source>Note: On Wayland, the shortcut has to be added in the compositor settings for &apos;qterminal -d&apos;.</source>
         <translation>Примітка: У Wayland комбінацію клавіш потрібно додати у налаштуваннях композитора за допомогою команди «qterminal -d».</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1133"/>
+        <location filename="../forms/propertiesdialog.ui" line="1165"/>
         <source>Lock shortcut:</source>
         <translation>Замкнути скорочення:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1200"/>
+        <location filename="../forms/propertiesdialog.ui" line="1232"/>
         <source>Edit bookmark file contents</source>
         <translation>Редагувати вміст файлу закладки</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1159"/>
+        <location filename="../forms/propertiesdialog.ui" line="1191"/>
         <source>Enable bookmarks</source>
         <translation>Ввімкнути закладки</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1168"/>
+        <location filename="../forms/propertiesdialog.ui" line="1200"/>
         <source>Bookmark file</source>
         <translation>Файл закладки</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1181"/>
+        <location filename="../forms/propertiesdialog.ui" line="1213"/>
         <source>Find...</source>
         <translation>Знайти...</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1190"/>
+        <location filename="../forms/propertiesdialog.ui" line="1222"/>
         <source>You can specify your own bookmarks file location. It allows easy bookmark sharing with tools like OwnCloud or Dropbox.</source>
         <translation>Ви можете вказати свій власний шлях до файлу закладки. Це дозволить легко поділитися закладками за допомогою OwnCloud або Dropbox.</translation>
     </message>
@@ -959,61 +989,61 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
         <translation>Гортання вниз</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="294"/>
+        <location filename="../propertiesdialog.cpp" line="295"/>
         <source>Examples</source>
         <translation>Приклади</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="468"/>
+        <location filename="../propertiesdialog.cpp" line="470"/>
         <source>Images (*.bmp *.jpg *.png *.svg *.xpm)</source>
         <translation>Зображення (*.bmp *.jpg *.png *.svg *.xpm)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="570"/>
+        <location filename="../propertiesdialog.cpp" line="572"/>
         <source>Open bookmarks file</source>
         <translation>Відкрити файл закладок</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="572"/>
+        <location filename="../propertiesdialog.cpp" line="574"/>
         <source>XML files (*.xml)</source>
         <translation>Файли XML (*.xml)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="573"/>
+        <location filename="../propertiesdialog.cpp" line="575"/>
         <source>All files (*)</source>
         <translation>Усі файли (*)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="672"/>
-        <location filename="../propertiesdialog.cpp" line="676"/>
+        <location filename="../propertiesdialog.cpp" line="674"/>
+        <location filename="../propertiesdialog.cpp" line="678"/>
         <source>Question</source>
         <translation>Запитання</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="672"/>
+        <location filename="../propertiesdialog.cpp" line="674"/>
         <source>Do you want to overwrite this bookmarks file?</source>
         <translation>Хочете перезаписати цей файл із закладками?</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="676"/>
+        <location filename="../propertiesdialog.cpp" line="678"/>
         <source>The name of bookmarks file does not end with &apos;.xml&apos;.
 Are you sure that you want to overwrite it?</source>
         <translation>Назва файлу закладок не закінчується на &quot;.xml&quot;.
 Ви впевнені, що хочете перезаписати його?</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="684"/>
+        <location filename="../propertiesdialog.cpp" line="686"/>
         <source>Warning</source>
         <translation>Попередження</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="684"/>
+        <location filename="../propertiesdialog.cpp" line="686"/>
         <source>Cannot write bookmarks to this file:</source>
         <translation>Неможливо записати закладки до цього файлу:</translation>
     </message>
     <message>
         <location filename="../propertiesdialog.cpp" line="225"/>
-        <location filename="../propertiesdialog.cpp" line="350"/>
+        <location filename="../propertiesdialog.cpp" line="351"/>
         <source>System Default</source>
         <translation>Типові системні налаштування</translation>
     </message>
@@ -1033,7 +1063,7 @@ Are you sure that you want to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="467"/>
+        <location filename="../propertiesdialog.cpp" line="469"/>
         <source>Choose a background image</source>
         <translation>Вибрати зображення тла</translation>
     </message>

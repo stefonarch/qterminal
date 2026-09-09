@@ -387,7 +387,7 @@
     </message>
     <message>
         <location filename="../forms/propertiesdialog.ui" line="38"/>
-        <location filename="../forms/propertiesdialog.ui" line="710"/>
+        <location filename="../forms/propertiesdialog.ui" line="735"/>
         <source>Behavior</source>
         <translation>Comportament</translation>
     </message>
@@ -407,7 +407,7 @@
         <translation>Marcadors</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="545"/>
+        <location filename="../forms/propertiesdialog.ui" line="570"/>
         <source>Hide tab bar with only one tab</source>
         <translation>Oculta la barra de les pestanyes amb només una pestanya</translation>
     </message>
@@ -422,7 +422,7 @@
         <translation>Posició de la barra de desplaçament</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="367"/>
+        <location filename="../forms/propertiesdialog.ui" line="392"/>
         <source>Start with preset:</source>
         <translation>Comença amb la pestanya preestablerta:</translation>
     </message>
@@ -432,22 +432,22 @@
         <translation>Transparència del terminal</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="378"/>
+        <location filename="../forms/propertiesdialog.ui" line="403"/>
         <source>None (single terminal)</source>
         <translation>Sense (només un terminal)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="383"/>
+        <location filename="../forms/propertiesdialog.ui" line="408"/>
         <source>2 terminals horizontally</source>
         <translation>2 terminals horitzontals</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="388"/>
+        <location filename="../forms/propertiesdialog.ui" line="413"/>
         <source>2 terminals vertically</source>
         <translation>2 terminals verticals</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="393"/>
+        <location filename="../forms/propertiesdialog.ui" line="418"/>
         <source>4 terminals</source>
         <translation>4 terminals</translation>
     </message>
@@ -477,7 +477,7 @@
         <translation>Estil de l&apos;estri</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="501"/>
+        <location filename="../forms/propertiesdialog.ui" line="526"/>
         <source>Show the menu bar</source>
         <translation>Mostra la barra de menús</translation>
     </message>
@@ -507,23 +507,23 @@
         <translation>Mostra la mida del terminal amb la redimensió</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="552"/>
+        <location filename="../forms/propertiesdialog.ui" line="577"/>
         <source>Fixed tab width:</source>
         <translation>Amplada fixa de la pestanya:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="411"/>
-        <location filename="../forms/propertiesdialog.ui" line="562"/>
+        <location filename="../forms/propertiesdialog.ui" line="436"/>
+        <location filename="../forms/propertiesdialog.ui" line="587"/>
         <source>px</source>
         <translation>px</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="525"/>
+        <location filename="../forms/propertiesdialog.ui" line="550"/>
         <source>Show close button on each tab</source>
         <translation>Mostra el botó de tancament en cadascuna de les pestanyes</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="401"/>
+        <location filename="../forms/propertiesdialog.ui" line="426"/>
         <source>Terminal margin</source>
         <translation>Marge del terminal</translation>
     </message>
@@ -533,67 +533,67 @@
         <translation>Utilitza les taules de caràcters continguts a la lletra tipogràfica</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="508"/>
+        <location filename="../forms/propertiesdialog.ui" line="533"/>
         <source>Accelerators are activated by Alt and can interfere with the terminal.</source>
         <translation>Els acceleradors s&apos;activen amb Alt i poden interferir amb el terminal.</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="511"/>
+        <location filename="../forms/propertiesdialog.ui" line="536"/>
         <source>No menu bar accelerator</source>
         <translation>Sense drecera de barra de menú</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="935"/>
+        <location filename="../forms/propertiesdialog.ui" line="967"/>
         <source>Emulation</source>
         <translation>Emulació</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="743"/>
+        <location filename="../forms/propertiesdialog.ui" line="768"/>
         <source>Action after paste</source>
         <translation>Acció després d&apos;enganxar</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="809"/>
+        <location filename="../forms/propertiesdialog.ui" line="834"/>
         <source>Confirm multiline paste</source>
         <translation>Confirma l&apos;enganxament de diverses línies</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="816"/>
+        <location filename="../forms/propertiesdialog.ui" line="841"/>
         <source>Trim trailing newlines in pasted text</source>
         <translation>Suprimeix els espais al final de les línies al text enganxat</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="860"/>
+        <location filename="../forms/propertiesdialog.ui" line="885"/>
         <source>Open new terminals in current working directory</source>
         <translation>Obre els terminals nous al directori de treball actual</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="579"/>
+        <location filename="../forms/propertiesdialog.ui" line="604"/>
         <source>Save Size when closing</source>
         <translation>Desa les mides quan es tanqui</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="572"/>
+        <location filename="../forms/propertiesdialog.ui" line="597"/>
         <source>Save Position when closing</source>
         <translation>Desa la posició quan es tanqui</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="736"/>
+        <location filename="../forms/propertiesdialog.ui" line="761"/>
         <source>Unlimited history</source>
         <translation>Historial il·limitat</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="716"/>
+        <location filename="../forms/propertiesdialog.ui" line="741"/>
         <source>History size (in lines)</source>
         <translation>Mida de l&apos;historial (en línies)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="884"/>
+        <location filename="../forms/propertiesdialog.ui" line="916"/>
         <source>Default $TERM</source>
         <translation>Valor per defecte de $TERM</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="598"/>
+        <location filename="../forms/propertiesdialog.ui" line="623"/>
         <source>Start with this size:</source>
         <translation>Comença amb aquesta mida:</translation>
     </message>
@@ -643,48 +643,48 @@
         <translation>Utilitzeu una font en negreta per a colors intensos</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="518"/>
+        <location filename="../forms/propertiesdialog.ui" line="543"/>
         <source>&amp;Hide Window Borders</source>
         <translation>&amp;Oculta les vores de la finestra</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="944"/>
+        <location filename="../forms/propertiesdialog.ui" line="976"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Which behavior to emulate. Note that this does not have to match your operating system.&lt;/p&gt;&lt;p&gt;If you are not sure, use the &lt;span style=&quot; font-weight:600;&quot;&gt;default&lt;/span&gt; emulation.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Quin comportament emular. Tingueu en compte que això no ha de coincidir amb el vostre sistema operatiu.&lt;/p&gt;&lt;p&gt;Si no n&apos;esteu segur, utilitzeu &lt;span style=&quot; font-weight:600;&quot;&gt;l&apos;emulació &lt;/span&gt;predeterminada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="605"/>
-        <location filename="../forms/propertiesdialog.ui" line="619"/>
+        <location filename="../forms/propertiesdialog.ui" line="630"/>
+        <location filename="../forms/propertiesdialog.ui" line="644"/>
         <source> px</source>
         <translation> px</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="626"/>
+        <location filename="../forms/propertiesdialog.ui" line="651"/>
         <source>Get current size</source>
         <translation>Obté la mida actual</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="870"/>
+        <location filename="../forms/propertiesdialog.ui" line="895"/>
         <source>Open new tab to the right of the active tab</source>
         <translation>Obre una pestanya nova a la dreta de la pestanya activa</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="867"/>
+        <location filename="../forms/propertiesdialog.ui" line="892"/>
         <source>If unchecked the new tab will be opened as the rightmost tab</source>
         <translation>Si no està seleccionat, la nova pestanya s&apos;obrirà a la dreta de l&apos;última pestanya oberta</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="535"/>
+        <location filename="../forms/propertiesdialog.ui" line="560"/>
         <source>Close tab on middle-click</source>
         <translation>Tanca la pestanya amb el botó central del ratolí</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="802"/>
+        <location filename="../forms/propertiesdialog.ui" line="827"/>
         <source>Forcefully disable bracketed paste mode</source>
         <translation>Inhabilita el mode d&apos;enganxat entre parèntesis</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="756"/>
+        <location filename="../forms/propertiesdialog.ui" line="781"/>
         <source>Word selection characters</source>
         <translation>Caràcters de selecció de mots</translation>
     </message>
@@ -704,119 +704,149 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="418"/>
+        <location filename="../forms/propertiesdialog.ui" line="364"/>
+        <source>Tiled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="369"/>
+        <source>Top Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="374"/>
+        <source>Top Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="379"/>
+        <source>Bottom Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="384"/>
+        <source>Bottom Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="443"/>
         <source>Current Terminal</source>
         <translation>Terminal actual</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="424"/>
+        <location filename="../forms/propertiesdialog.ui" line="449"/>
         <source>Draw a border</source>
         <translation>Dibuixa una vora</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="431"/>
+        <location filename="../forms/propertiesdialog.ui" line="456"/>
         <source>Set the current terminal on mouseover</source>
         <translation>Estableix el terminal actual en passar-hi el ratolí</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="438"/>
+        <location filename="../forms/propertiesdialog.ui" line="463"/>
         <source>Change window title based on the terminal</source>
         <translation>Canvia el títol de la finestra en funció del terminal</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="445"/>
+        <location filename="../forms/propertiesdialog.ui" line="470"/>
         <source>Change window icon based on the terminal</source>
         <translation>Canvia la icona de la finestra segons el terminal</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="586"/>
+        <location filename="../forms/propertiesdialog.ui" line="611"/>
         <source>Save State when closing</source>
         <translation>Desa&apos;n l&apos;estat en tancar</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="763"/>
+        <location filename="../forms/propertiesdialog.ui" line="788"/>
         <source>When selecting text by word, consider these characters as part of words in addition to alphanumeric characters</source>
         <translation>En seleccionar text per mot, pren en consideració aquests caràcters com a part dels mots a més dels caràcters alfanumèrics</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="766"/>
+        <location filename="../forms/propertiesdialog.ui" line="791"/>
         <source>:@-./_~</source>
         <translation>:@-./_~</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="773"/>
+        <location filename="../forms/propertiesdialog.ui" line="798"/>
         <source>Mouse cursor hiding delay</source>
         <translation>Retard d&apos;ocultació del cursor del ratolí</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="780"/>
+        <location filename="../forms/propertiesdialog.ui" line="805"/>
         <source>No hiding</source>
         <translation>No s&apos;amaga</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="783"/>
+        <location filename="../forms/propertiesdialog.ui" line="808"/>
         <source> sec</source>
         <translation> s</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="799"/>
+        <location filename="../forms/propertiesdialog.ui" line="824"/>
         <source>Bracketed paste mode is useful for pasting multiline strings.</source>
         <translation>El mode d&apos;enganxat entre parèntesis és útil per enganxar cadenes de diverses línies.</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="823"/>
+        <location filename="../forms/propertiesdialog.ui" line="848"/>
         <source>Allow applications to embed clickable hyperlinks using the OSC-8 terminal sequence</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="826"/>
+        <location filename="../forms/propertiesdialog.ui" line="851"/>
         <source>Enable OSC-8 hyperlinks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="833"/>
+        <location filename="../forms/propertiesdialog.ui" line="858"/>
         <source>Show the destination URL when hovering over a link</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="836"/>
+        <location filename="../forms/propertiesdialog.ui" line="861"/>
         <source>Show link destination on hover</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="843"/>
+        <location filename="../forms/propertiesdialog.ui" line="868"/>
         <source>When enabled, links open only with Ctrl+Click or from the context menu. When disabled, a plain click opens the link.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="846"/>
+        <location filename="../forms/propertiesdialog.ui" line="871"/>
         <source>Open links with Ctrl+Click</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="853"/>
+        <location filename="../forms/propertiesdialog.ui" line="878"/>
         <source>Prompt on closing with a running process</source>
         <translation>Sol·licita què fer en tancar amb un procés en execució</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="877"/>
+        <location filename="../forms/propertiesdialog.ui" line="902"/>
+        <source>Visual bell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/propertiesdialog.ui" line="909"/>
         <source>Audible bell</source>
         <translation>Campana audible</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="920"/>
+        <location filename="../forms/propertiesdialog.ui" line="952"/>
         <source>This command will be run with an argument containing the file name of a tempfile containing the scrollback history
 Defaults to $VISUAL
                  </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="925"/>
+        <location filename="../forms/propertiesdialog.ui" line="957"/>
         <source>History viewer command</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="968"/>
+        <location filename="../forms/propertiesdialog.ui" line="1000"/>
         <source>To edit a Shortcut:
 1. Double-click its Key
 2. Press the desired combination and release it
@@ -831,88 +861,88 @@ To remove/disable a Shortcut, at point 2 press only a modifier (like Shift)</sou
 Per eliminar/desactivar una drecera, al punt 2, premeu només un modificador (com ara Maj)</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="998"/>
+        <location filename="../forms/propertiesdialog.ui" line="1030"/>
         <source>Shortcut</source>
         <translation>Dreceres</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1003"/>
+        <location filename="../forms/propertiesdialog.ui" line="1035"/>
         <source>Key</source>
         <translation>Tecles</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1015"/>
+        <location filename="../forms/propertiesdialog.ui" line="1047"/>
         <source>Show on start</source>
         <translation>Mostra-ho al començament</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1022"/>
+        <location filename="../forms/propertiesdialog.ui" line="1054"/>
         <source>A lock button is shown on horizontal tab bar</source>
         <translation>Apareixerà un botó de bloqueig en la barra de pestanyes horitzontal</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1025"/>
+        <location filename="../forms/propertiesdialog.ui" line="1057"/>
         <source>Keep window open when it loses focus</source>
         <translation>Mantén la finestra oberta en perdre el focus</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1032"/>
+        <location filename="../forms/propertiesdialog.ui" line="1064"/>
         <source>Size</source>
         <translation>Mides</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1043"/>
+        <location filename="../forms/propertiesdialog.ui" line="1075"/>
         <source>Height</source>
         <translation>Alçada</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1053"/>
-        <location filename="../forms/propertiesdialog.ui" line="1076"/>
+        <location filename="../forms/propertiesdialog.ui" line="1085"/>
+        <location filename="../forms/propertiesdialog.ui" line="1108"/>
         <source>%</source>
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1066"/>
+        <location filename="../forms/propertiesdialog.ui" line="1098"/>
         <source>Width</source>
         <translation>Amplada</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1096"/>
+        <location filename="../forms/propertiesdialog.ui" line="1128"/>
         <source>Shortcut:</source>
         <translation>Drecera:</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1105"/>
+        <location filename="../forms/propertiesdialog.ui" line="1137"/>
         <source>Note: On Wayland, the shortcut has to be added in the compositor settings for &apos;qterminal -d&apos;.</source>
         <translation>Nota: amb Wayland, la drecera s&apos;ha d&apos;afegir a la configuració del compositor per a qterminal -d.</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1133"/>
+        <location filename="../forms/propertiesdialog.ui" line="1165"/>
         <source>Lock shortcut:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1200"/>
+        <location filename="../forms/propertiesdialog.ui" line="1232"/>
         <source>Edit bookmark file contents</source>
         <translation>Edita el contingut del fitxer dels marcadors</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1159"/>
+        <location filename="../forms/propertiesdialog.ui" line="1191"/>
         <source>Enable bookmarks</source>
         <translation>Habilita els marcadors</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1168"/>
+        <location filename="../forms/propertiesdialog.ui" line="1200"/>
         <source>Bookmark file</source>
         <translation>Fitxer dels marcadors</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1181"/>
+        <location filename="../forms/propertiesdialog.ui" line="1213"/>
         <source>Find...</source>
         <translation>Troba...</translation>
     </message>
     <message>
-        <location filename="../forms/propertiesdialog.ui" line="1190"/>
+        <location filename="../forms/propertiesdialog.ui" line="1222"/>
         <source>You can specify your own bookmarks file location. It allows easy bookmark sharing with tools like OwnCloud or Dropbox.</source>
         <translation>Podeu especificar la ubicació del vostre fitxer de marcadors. Això us permet compartir fàcilment els marcadors amb eines com ara OwnCloud o Dropbox.</translation>
     </message>
@@ -959,61 +989,61 @@ Per eliminar/desactivar una drecera, al punt 2, premeu només un modificador (co
         <translation>Desplaça a la part inferior</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="294"/>
+        <location filename="../propertiesdialog.cpp" line="295"/>
         <source>Examples</source>
         <translation>Exemples</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="468"/>
+        <location filename="../propertiesdialog.cpp" line="470"/>
         <source>Images (*.bmp *.jpg *.png *.svg *.xpm)</source>
         <translation>Imatges (*.bmp *.jpg *.png *.svg *.xpm)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="570"/>
+        <location filename="../propertiesdialog.cpp" line="572"/>
         <source>Open bookmarks file</source>
         <translation>Obre el fitxer de marcadors</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="572"/>
+        <location filename="../propertiesdialog.cpp" line="574"/>
         <source>XML files (*.xml)</source>
         <translation>Fitxers XML (*.xml)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="573"/>
+        <location filename="../propertiesdialog.cpp" line="575"/>
         <source>All files (*)</source>
         <translation>Tots els fitxers (*)</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="672"/>
-        <location filename="../propertiesdialog.cpp" line="676"/>
+        <location filename="../propertiesdialog.cpp" line="674"/>
+        <location filename="../propertiesdialog.cpp" line="678"/>
         <source>Question</source>
         <translation>Pregunta</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="672"/>
+        <location filename="../propertiesdialog.cpp" line="674"/>
         <source>Do you want to overwrite this bookmarks file?</source>
         <translation>Voleu sobreescriure el fitxer de marcadors?</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="676"/>
+        <location filename="../propertiesdialog.cpp" line="678"/>
         <source>The name of bookmarks file does not end with &apos;.xml&apos;.
 Are you sure that you want to overwrite it?</source>
         <translation>El nom del fitxer de marcadors no té extensió «.xml».
 Esteu segur que el voleu sobreescriure?</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="684"/>
+        <location filename="../propertiesdialog.cpp" line="686"/>
         <source>Warning</source>
         <translation>Advertiment</translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="684"/>
+        <location filename="../propertiesdialog.cpp" line="686"/>
         <source>Cannot write bookmarks to this file:</source>
         <translation>No s&apos;han pogut escriure els marcadors en el fitxer:</translation>
     </message>
     <message>
         <location filename="../propertiesdialog.cpp" line="225"/>
-        <location filename="../propertiesdialog.cpp" line="350"/>
+        <location filename="../propertiesdialog.cpp" line="351"/>
         <source>System Default</source>
         <translation>Predeterminat del sistema</translation>
     </message>
@@ -1033,7 +1063,7 @@ Esteu segur que el voleu sobreescriure?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../propertiesdialog.cpp" line="467"/>
+        <location filename="../propertiesdialog.cpp" line="469"/>
         <source>Choose a background image</source>
         <translation>Trieu una imatge de fons</translation>
     </message>
